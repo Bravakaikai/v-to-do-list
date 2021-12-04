@@ -184,7 +184,7 @@ export default {
   text-align: center;
   background-color: #DCCCBB;
   .v-card {
-    margin: 0 auto;
+    margin: 20px auto;
     padding: 16px 30px;
     width: 80%;
     .row {
