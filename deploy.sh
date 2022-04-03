@@ -21,6 +21,6 @@ git commit -m 'new deployment'
 git push -f git@github.com:bravakaikai/v-to-do-list.git master:gh-pages
 
 # 走 HTTPS 模式
-# git push -f https://github.com/hsiangfeng/HexfootMusic.git master:gh-pages
+# git push -f https://github.com/Bravakaikai/v-to-do-list.git master:gh-pages
 
 cd -
